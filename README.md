@@ -19,3 +19,9 @@ Numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 Letters: A, B, C, D, E, F
 
 Wallets are case sensitive.
+
+Errors:
+
+found_addresses.txt must be in the same folder as .py
+
+only ENG characters must be used in the path

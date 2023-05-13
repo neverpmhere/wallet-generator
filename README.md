@@ -10,6 +10,7 @@ autogenerator - autogenerate untill you close it.
 here are some templates:
 
 if address.startswith("0x00000") and address.endswith(""):
+
 if address.startswith("0x") and address.endswith("00000"):
 
 Numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9

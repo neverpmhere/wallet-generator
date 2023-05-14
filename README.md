@@ -22,6 +22,6 @@ Wallets are case sensitive.
 
 Errors:
 
-found_addresses.txt must be in the same folder as .py
+found_addresses.txt must be in the same folder as .py or .exe
 
 only ENG characters must be used in the path
